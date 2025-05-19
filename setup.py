@@ -26,7 +26,7 @@ setup(
     install_requires=[
         "numpy>=1.26,<2.0.0",
         "sympy==1.12",
-        "ase==3.22.1",
+        "ase==3.25.0",
         "h5py==3.10.0",
         "apsw==3.45.1.0",
         "schnetpack==2.0.4",
